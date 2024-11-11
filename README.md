@@ -30,4 +30,6 @@ This project shows my dedication to developing tech solutions that promote teamw
 ## 📫 Contact Us
 
 - **Email**: [joshuaeviota60@gmail.com](mailto:joshuaeviota60@gmail.com)
+- **Email**: [ellevera.oscarjay19@gmail.com](mailto:ellevera.oscarjay19@gmail.com)
+- **Email**: [peterranario11@gmail.com](mailto:peterranario11@gmail.com)
 
