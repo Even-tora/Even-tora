@@ -1,35 +1,23 @@
+### Events in Manolo Fortich 🌐  
+**Overview 📝**  
+This project highlights the upcoming and past events in Manolo Fortich, showcasing the town’s vibrant community activities. As a second-year IT student, I’m exploring how technology can help organize and document local events effectively.  
 
+### Purpose 🎯  
+The goal is to develop a user-friendly system to list, manage, and provide insights into the town's events, promoting community engagement.  
 
-### Partnerships for the Goals 🌐
-Overview 📝
-Partnerships for the Goals supports UN Sustainable Development Goal 17, all about teamwork to tackle global issues. As a second-year IT student, I’m learning how tech can build strong partnerships.
+### Key Features 🌟  
+- **Event Dashboard** 📊: Showcases upcoming and past events with key details.   
+- **Data Sharing** 🔒: Ensures organizers can share updates securely.   
 
-### Purpose 🎯
-This project aims to create a simple system where organizations can connect, share data, and track progress towards shared goals.
+### Technologies Used 💻  
+- **Frontend**: HTML, CSS, JavaScript for design and interactivity.  
+- **APIs**: Real-time data and mapping for event locations and updates.  
 
+### Vision 🌱  
+This project reflects my commitment to using technology to support local communities, making event management more efficient and accessible.  
 
+## 📫 Contact Us  
 
-
-### Key Features 🌍
- - **Dashboard** 📊: Displays progress on various partnership projects.
-
-### Map 🗺️: Highlights global partnerships and their impact.
-- **Data Sharing** 🔒: Enables secure information sharing.
-- **Progress Tracking** 📈: Analyzes data to track success and identify improvements.
-
-
-### Technologies Used 💻
-Frontend: HTML, CSS, JavaScript for design and interactivity.
-APIs: Provides real-time data and maps.
-
-
-
-### Vision 🌱
-This project shows my dedication to developing tech solutions that promote teamwork to address global issues.
-
-## 📫 Contact Us
-
-- **Email**: [joshuaeviota60@gmail.com](mailto:joshuaeviota60@gmail.com)
-- **Email**: [ellevera.oscarjay19@gmail.com](mailto:ellevera.oscarjay19@gmail.com)
-- **Email**: [peterranario11@gmail.com](mailto:peterranario11@gmail.com)
-
+- **Email**: [joshuaeviota60@gmail.com](mailto:joshuaeviota60@gmail.com)  
+- **Email**: [ellevera.oscarjay19@gmail.com](mailto:ellevera.oscarjay19@gmail.com)  
+- **Email**: [peterranario11@gmail.com](mailto:peterranario11@gmail.com)  
